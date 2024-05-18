@@ -1,0 +1,264 @@
+*, html{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	text-decoration: none;
+	font-family: 'Gothic A1', sans-serif;
+	text-decoration: none;
+}
+ul li
+{
+	list-style: none;
+}
+.navbar
+{
+	background-color: black;
+	text-transform: uppercase;
+}
+
+footer
+{
+	height: 100px;
+	width: 100%;
+	background-color: black;
+}
+
+.signUpSTyle
+{
+	text-decoration: none;
+	color: white;
+}
+.signUpSTyle:hover
+{
+	color: white;
+}
+.loginstyle
+{
+
+	color: white;
+}
+.body
+{
+	background-image: url('https://images.unsplash.com/photo-1533285860212-c85e7140a408?q=80&w=1706&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+	background-size: cover;
+	height: 100vh;
+}
+
+.textBox
+{
+	font-size: 20px;
+	color: white;
+	text-align: justify;
+	padding-top: 100px;
+	text-align: center;
+}
+.socialMedia
+{ 
+	color: white;
+	padding-top: 10px;
+}
+.connect
+{
+	display: inline-block;
+}
+.book
+{
+	padding: 15px;
+}
+.secondcolumn
+{
+		padding: 20px;
+}
+.fontsz
+{
+	font-size: 13px;
+}
+/*======================STUDENT LOGIN====================*/
+
+.log_img
+{
+	background-image: url("https://images.pexels.com/photos/8247921/pexels-photo-8247921.jpeg?cs=srgb&dl=pexels-markus-spiske-8247921.jpg&fm=jpg");
+	height: 700px;
+	width: 1350px;
+}
+.loginBox
+{
+	height: 600px;
+	width: 450px;
+	color: white;
+	background-color: black;
+	text-align: center;
+	margin: 20px auto;
+	margin-top: 0px;
+	opacity: 0.7;
+}
+.LoginText1
+{
+	font-size: 40px;
+}
+.LoginText2
+{
+	font-size: 19px;
+}
+input
+{
+	height: 35px;
+	width: 200px;
+	padding: 10px;
+}
+.loginBox a
+{
+	padding: 20px;
+	text-decoration: underline;
+	display: block;
+	color: white;
+}
+.loginButton
+{
+	padding: 5px;
+	width: 150px;
+}
+.icons1
+{
+	color: white;
+padding: 10px;
+}
+
+/*------------------------Registration-----------------------------------------*/
+
+.sign_img
+{
+	background-image: url("https://images.pexels.com/photos/9052260/pexels-photo-9052260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+	height: 800px;
+	width: 1350px;
+}
+.signUpBox
+{
+	height: 720px;
+	width: 450px;
+	color: white;
+	background-color: black;
+	text-align: center;
+	margin: 20px auto;
+	margin-top: 0px;
+	opacity: 0.7;
+}
+.signText1
+{
+	font-size: 40px;
+}
+.signText2
+{
+	font-size: 19px;
+}
+.signUpBox a
+{
+	padding: 20px;
+	text-decoration: underline;
+	display: block;
+	color: white;
+}
+.signUpButton
+{
+	padding: 5px;
+	width: 150px;
+}
+.sign_img input
+{
+	height: 30px;
+	width: 200px;
+	padding: 5px;
+}
+/*---------------------FEEDBACK---------------------------------------------*/
+
+.feed
+{
+	background-image: url('66.jpg');
+	color: white;
+}
+.feed td
+{
+	color: white;
+}
+
+.fwrapper
+{
+	
+	width: 900px;
+	height: 600px;
+	background-color: black;	
+	padding: 10px;
+	margin: 20px auto;
+}
+.commentstyle
+{
+	height: 70px;
+	width: 60%;
+
+}
+.commentbutton
+{
+	width: 100px;
+	height: 40px;
+}
+.phptable
+{
+	width: 100%;
+	height: 400px;
+	overflow: auto;
+	color: white;
+}
+/*----------------------------BOOK--------------------*/
+.search
+{
+padding-top: 10px;
+padding-bottom: 20px;
+padding-left: 800px;
+}
+#search button
+{
+	background-color: #6db6b9e6;
+	margin: 5px;
+}
+/*--------------------------------------------profile----------------------------*/
+.p
+{
+	height: 600px;
+	width: 400px;
+	margin: 20px auto;
+	/*background-color: red;*/
+}
+/*------------------------------------changepassword--------------------------------*/
+
+.changepass
+{
+	height: 650px;
+	background-color: darkred;
+	background-image: url('https://c4.wallpaperflare.com/wallpaper/70/220/916/technology-binary-numbers-code-wallpaper-preview.jpg');
+}
+.cwrapper
+{
+	width: 400px;
+	height: 500px;
+	margin: 70px auto;
+	background-color: black;
+	opacity: .6;
+}
+.cwrapper h1
+{
+	text-align: center;
+	color: white;
+	font-size: 30px;
+	padding-top: 20px;
+}
+.cwrapper input
+{
+width: 90%;
+margin-left: 20px;
+}
+.cwrapper button
+{
+width: 100px;
+margin-left: 20px;
+background-color: white;
+}
